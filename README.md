@@ -1,0 +1,1 @@
+This is a server created following the tutorial located at https://scotch.io/tutorials/use-ejs-to-template-your-node-application.
